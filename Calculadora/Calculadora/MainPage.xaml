@@ -10,14 +10,14 @@
                 <Label.FormattedText>
                     <FormattedString>
                         <FormattedString.Spans>
-                            <Span x:Name="spnFirst" Text="12" FontSize="36" TextColor="White"/>
-                            <Span x:Name="spnSecond" Text="+" FontSize="32" TextColor="#d86d6f"/>
-                            <Span x:Name="spnThird" Text="12" FontSize="36" TextColor="White"/>
+                            <Span x:Name="spnFirst" Text="" FontSize="36" TextColor="White"/>
+                            <Span x:Name="spnSecond" Text="" FontSize="32" TextColor="#d86d6f"/>
+                            <Span x:Name="spnThird" Text="" FontSize="36" TextColor="White"/>
                         </FormattedString.Spans>
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
-            <Label x:Name="lblNumber" HorizontalOptions="End" Text="144" TextColor="White"
+            <Label x:Name="lblNumber" HorizontalOptions="End" Text="" TextColor="White"
                    Margin="0,0,16,0" FontSize="84" FontAttributes="Bold"/>
 
         </StackLayout>
