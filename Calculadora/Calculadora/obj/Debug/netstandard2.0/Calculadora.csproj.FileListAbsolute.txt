@@ -1,0 +1,15 @@
+D:\Nilton\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.deps.json
+D:\Nilton\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.dll
+D:\Nilton\Calculadora\Calculadora\bin\Debug\netstandard2.0\ref\Calculadora.dll
+D:\Nilton\Calculadora\Calculadora\bin\Debug\netstandard2.0\Calculadora.pdb
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.AssemblyReference.cache
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfoInputs.cache
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.AssemblyInfo.cs
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.dll
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\refint\Calculadora.dll
+D:\Nilton\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.pdb

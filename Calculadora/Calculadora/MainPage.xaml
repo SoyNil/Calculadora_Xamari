@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora.MainPage"
+             BackgroundColor="#22252d">
+    <AbsoluteLayout>
+        <StackLayout AbsoluteLayout.LayoutBounds="0,1,1,.32" AbsoluteLayout.LayoutFlags="All"
+                     Padding="24,0" Spacing="0">
+            <Label>
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        
+        </StackLayout>
+        <Frame AbsoluteLayout.LayoutBounds="0,1,1,.1" AbsoluteLayout.LayoutFlags="SizeProportional,YProportional"
+               BackgroundColor="#2a2d37"/>
+        <Frame AbsoluteLayout.LayoutBounds="0,.95,1,.62" AbsoluteLayout.LayoutFlags="HeightProportional"
+               BackgroundColor="#2a2d37" HasShadow="False" CornerRadius="45">
+
+        </Frame>
+    </AbsoluteLayout>
+</ContentPage>
