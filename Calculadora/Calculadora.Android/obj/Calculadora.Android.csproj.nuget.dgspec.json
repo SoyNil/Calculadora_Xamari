@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nilton\\Calculadora\\Calculadora.Android\\Calculadora.Android.csproj": {}
+    "D:\\Xamarin\\Calculadora\\Calculadora.Android\\Calculadora.Android.csproj": {}
   },
   "projects": {
-    "D:\\Nilton\\Calculadora\\Calculadora.Android\\Calculadora.Android.csproj": {
+    "D:\\Xamarin\\Calculadora\\Calculadora.Android\\Calculadora.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nilton\\Calculadora\\Calculadora.Android\\Calculadora.Android.csproj",
+        "projectUniqueName": "D:\\Xamarin\\Calculadora\\Calculadora.Android\\Calculadora.Android.csproj",
         "projectName": "Calculadora.Android",
-        "projectPath": "D:\\Nilton\\Calculadora\\Calculadora.Android\\Calculadora.Android.csproj",
+        "projectPath": "D:\\Xamarin\\Calculadora\\Calculadora.Android\\Calculadora.Android.csproj",
         "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-        "outputPath": "D:\\Nilton\\Calculadora\\Calculadora.Android\\obj\\",
+        "outputPath": "D:\\Xamarin\\Calculadora\\Calculadora.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "D:\\Nilton\\Calculadora\\Calculadora\\Calculadora.csproj": {
-                "projectPath": "D:\\Nilton\\Calculadora\\Calculadora\\Calculadora.csproj"
+              "D:\\Xamarin\\Calculadora\\Calculadora\\Calculadora.csproj": {
+                "projectPath": "D:\\Xamarin\\Calculadora\\Calculadora\\Calculadora.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "D:\\Nilton\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "D:\\Xamarin\\Calculadora\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nilton\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "D:\\Xamarin\\Calculadora\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "D:\\Nilton\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectPath": "D:\\Xamarin\\Calculadora\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-        "outputPath": "D:\\Nilton\\Calculadora\\Calculadora\\obj\\",
+        "outputPath": "D:\\Xamarin\\Calculadora\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

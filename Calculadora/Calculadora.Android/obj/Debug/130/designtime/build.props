@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638309001485659662
+_nugetassetstimestamp=638309014978784477
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=d:\nilton\calculadora\calculadora.android\calculadora.android.csproj
+projectfullpath=d:\xamarin\calculadora\calculadora.android\calculadora.android.csproj

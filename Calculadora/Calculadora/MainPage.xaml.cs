@@ -14,5 +14,9 @@ namespace Calculadora
         {
             InitializeComponent();
         }
+        private void Btn_sumar(Object sender, EventArgs e)
+        {
+
+        }
     }
 }

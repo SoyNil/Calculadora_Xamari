@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kuvUJZBLvnHxKjpqpNhZR0b+En6DvX+5Q2to4VsiTRKuhDywsh9ojf+z0yjZmsQzt7HE5U8uuIoJSkE1tV6zLA==",
+  "dgSpecHash": "MLviVoMFtZCsr/jPIHJSRhldaw/Uf1uFkkcMQ1z5FW8mxvGe4VQZEOj4Sz0nbkSkeK/VCk8NnZe/iqEjXBb0yQ==",
   "success": true,
-  "projectFilePath": "D:\\Nilton\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "D:\\Xamarin\\Calculadora\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALUMNO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ALUMNO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
