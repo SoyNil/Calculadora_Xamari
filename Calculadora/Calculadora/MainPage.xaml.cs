@@ -91,7 +91,8 @@ namespace Calculadora
                                     }
                                     else
                                     {
-                                        // Manejar la división por cero aquí
+                                        lblNumber.Text = "No se puede dividir entre cero";
+                                        return;
                                     }
                                     break;
                             }
